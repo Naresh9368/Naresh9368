@@ -6,20 +6,21 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/naresh-kumar-323a08213/" target="_blank"> NARESH KUMAR </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img width="40%" align="right"   src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>Naresh Kumar</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>Naresh Kumar</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>Data Science, Data Analysis  and Machine Learing </b>. ⚡
 
-<h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Graphic Designer </h3>
+<h3 align="center">Data Analyst | A Passionate Frontend-Web Developer | Machine Learning enthusiast </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Naresh9368&label=Profile%20views&color=6805D3&style=flat" alt="Nareshkumar" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence. Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
- Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
+I have learned Data Science and having knowledge of Python, SQL, & Power Bi. I have Worked on various Projects related to Data Analysis. Tech: Machine Learning, Data Science, NumPy, Pandas, Matplotlib, Scikit-Learn, Power Bi,  Microsoft Azure, Tensor Flow, SQL.
+ Known Languages: Python, SQL, C, Java, Html, JavaScript, and CSS.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+<img alt="Power Bi" src="https://img.shields.io/badge/Power Bi-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
