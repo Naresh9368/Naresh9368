@@ -56,6 +56,7 @@ I have learned Data Science and having knowledge of Python, SQL, & Power Bi. I h
 | :---:        |    :----   |  
 | [My Portfolio Website](https://naresh9368.github.io/Portfolio-website/)     | Portfolio website build using HTML5, CSS3, JavaScript. 
 | [Smart Mirror](https://github.com/Naresh9368/N-Smart-Mirror)     | In this Project we have automate the mirror using esp32 and add some cool features like google assistant . | 
+| [T20 world Cup 2022 Analysis](https://github.com/Naresh9368/t20-worldCup-2022-analysis)   | Build Machine Learning Model & Data Visualization    |
 | [EDA On Indian Premiere League](https://github.com/Naresh9368/Exploratory-Data-Analysis---Sports-Indian-Premier-League-)   | Find Insights From IPL Dataset    |
 | [Machine Learning Model ](https://github.com/Naresh9368/Machine_Learning_Algorithm)     | Design 80% accurate machine learning models using math statistics
 
