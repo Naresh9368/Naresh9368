@@ -6,7 +6,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/naresh-kumar-323a08213/" target="_blank"> NARESH KUMAR </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" >
 
-A Small Introduction of  Myself, I am <b>Naresh Kumar</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>Data Science, Data Analysis  and Machine Learing </b>. ⚡
+A Small Introduction of  Myself, I am <b>Naresh Kumar</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my final-Year of B.Tech. As of now, I am focused on <b>Data Science, Data Analysis  and Machine Learing </b>. ⚡
 
 <h3 align="center">Data Analyst | A Passionate Frontend-Web Developer | Machine Learning </h3>
 
